@@ -28,8 +28,6 @@
     width: 170px;
     height: 170px;
     border-radius: 20px;
-    cursor: pointer;
-    transition: 0.4s;
     background-color: #212121;
 }
 
@@ -64,9 +62,9 @@
     height: 40px;
 } */
 
-.card:hover {
+/* .card:hover {
     transform: scale(0.9, 0.9);
-}
+} */
 
 .title {
     color: rgb(41, 187, 216);
